@@ -53,4 +53,4 @@ A business operations platform for Battles Forestry LLC, a $13M+ annual revenue 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/travis-williams-88370841/)
-- travis.williamsok@gmail.com
+
