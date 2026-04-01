@@ -36,7 +36,7 @@ A multi-tenant SaaS work order management system built for Coffee Creek Manufact
 ### SilvaCore — Forestry Operations Platform
 *(In development)*
 
-A business operations platform for Battles Forestry LLC, a $13M+ annual revenue forestry operation. Same AI-driven development approach as LoadCore, applied to timber harvesting operations management.
+A business operations platform for Battles Forestry LLC. Same AI-driven development approach as LoadCore, applied to timber harvesting operations management.
 
 ---
 
